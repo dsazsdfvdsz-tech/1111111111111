@@ -1,0 +1,12 @@
+/* TEAM */
+Writer: Salman
+Site:   https://example.com/
+Based:  Lahore, Pakistan
+
+/* SITE */
+Last update: 2026-04-15
+Language:    English
+Doctype:     HTML5
+Standards:   WCAG 2.2 AA
+Components:  Tailwind (Play CDN), GSAP, Lenis, Lucide
+Fonts:       Fraunces, Inter, JetBrains Mono

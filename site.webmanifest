@@ -1,0 +1,19 @@
+{
+  "name": "Salman — Academic Writer",
+  "short_name": "Salman",
+  "description": "Freelance academic writer — essays, dissertations, research papers. 100% human-written, zero plagiarism.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f3ec",
+  "theme_color": "#f7f3ec",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/assets/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
